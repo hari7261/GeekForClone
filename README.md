@@ -10,6 +10,11 @@ GeekForClone is designed as a practice project aimed at understanding the core w
     <img src="path_to_demo_image.gif" alt="GeekForClone Demo" width="600px"/>
 </p>
 
+![image](https://github.com/user-attachments/assets/575a79d5-018b-4275-a2e0-e9d0dcf8eb04)
+![Screenshot 2024-10-27 184950](https://github.com/user-attachments/assets/7438aa76-be03-40d9-8139-3b27eb9fdf2c)
+
+
+
 ### 🌌 Features
 
 - **Responsive Design**: Works seamlessly on devices of all sizes.
